@@ -1,0 +1,6 @@
+[submodule "themes/anaken"]
+	path = themes/anaken
+	url = https://github.com/budparr/gohugo-theme-ananke
+[submodule "themes/ananken"]
+	path = themes/ananken
+	url = https://github.com/budparr/gohugo-theme-ananke
