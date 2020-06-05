@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 [submodule "themes/anaken"]
 	path = themes/anaken
 	url = https://github.com/budparr/gohugo-theme-ananke
 [submodule "themes/ananken"]
 	path = themes/ananken
-=======
-[submodule "gohugo-theme-ananke"]
-	path = gohugo-theme-ananke
-	url = https://github.com/budparr/gohugo-theme-ananke
-[submodule "themes\\ananke"]
-	path = themes\\ananke
->>>>>>> 807e953813fd0b7705b8619fe1f8193df327d994
 	url = https://github.com/budparr/gohugo-theme-ananke
